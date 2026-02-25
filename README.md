@@ -26,6 +26,7 @@ A proposta é demonstrar domínio de HTML, CSS e boas práticas de front-end, co
 
 HTML5
 
+
 🔹Estrutura semântica
 
 🔹Boas práticas de acessibilidade
@@ -33,6 +34,8 @@ HTML5
 🔹Organização clara de seções
 
 CSS3
+
+
 🔹Variáveis CSS (:root)
 
 🔹Flexbox
@@ -45,6 +48,7 @@ CSS3
 
 Google Fonts
 
+
 🔹Poppins
 
 🔹Unbounded
@@ -54,12 +58,17 @@ Google Fonts
 
 📌 1. Uso de Variáveis CSS
 
+
 --cor-de-fundo: #0E1014;
+
 --cor-primaria: #ffffff;
+
 --cor-destaque: #9747FF;
+
 --cor-hover: #8233E8;
 
 Isso permite:
+
 
 🔹Fácil manutenção
 
@@ -68,6 +77,7 @@ Isso permite:
 🔹Implementação simplificada de tema claro/escuro
 
 📌 2. Organização por Classes Padronizadas
+
 
 🔹O uso consistente da classe .container e nomenclatura estruturada:
 
@@ -85,6 +95,7 @@ Isso permite:
 
 📌 3. Responsividade
 
+
 🔹Implementado com media queries para:
 
 🔹Tablets (768px)
@@ -96,6 +107,7 @@ Isso permite:
 🎯 Competências Demonstradas
 
 Este projeto evidencia:
+
 
 ✔ Estruturação de layout moderno
 
@@ -112,6 +124,7 @@ Este projeto evidencia:
 🔮 Possíveis Evoluções
 
 Como roadmap futuro, o projeto pode evoluir para:
+
 
 🔹 Implementação real de toggle Dark/Light Mode
 
